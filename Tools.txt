@@ -1,0 +1,11 @@
+Microsoft Excel
+
+Pivot Tables
+
+Pivot Charts
+
+SUMIFS, COUNTIF, IF
+
+VLOOKUP / XLOOKUP
+
+Conditional Formatting
